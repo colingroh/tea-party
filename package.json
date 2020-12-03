@@ -1,7 +1,7 @@
 {
   "name": "tea-party",
   "version": "0.1.0",
-  "homepage": "http:colingroh.github.io/tea-party",
+  "homepage": "http://colingroh.github.io/tea-party/",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.0",
